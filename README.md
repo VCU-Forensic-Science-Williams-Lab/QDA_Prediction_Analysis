@@ -5,7 +5,7 @@ R Code for QDA model predicting body fluid identity using miRNA expression from 
 
 Source Citation:<br>
 Developmental validation of a microRNA panel using quadratic discriminant analysis for the identification of seven forensically relevant body fluids
-Ciara Rhodes, Carolyn Lewis, Jennifer Szekely, Annabelle Campbell, Molly Creighton, Edward Boone, Sarah Seashols-Williams
+Ciara Rhodes, Carolyn Lewis, Jennifer Szekely, Annabelle Campbell, Mary-Randall A. Creighton, Edward Boone, Sarah Seashols-Williams
 Virginia Commonwealth University Departments of Forensic Science, Statistical Sciences and Operations Research, Integrated Life Sciences, and Center 
 for Biological Data Science: Bioinformatics
 * Corresponding Author: Sarah Seashols-Williams: sseashols@vcu.edu 
